@@ -1,62 +1,55 @@
-# BuildingFootballTeam
+# **Spam Filter Project**
+
+## **Project Overview**
 
 
-Building Football Team Cards 
+#### This Project Is A **Spam Filter**, Developed As Part of The FreeCodeCamp Curriculum. 
+
+#### The Primary Goal Is Learn Modern JavaScript Methods By Building FootBall Team Cards.
+
+
+## **Course Details**
+
+
++ **Course Section**: JavaScript Algorithms and Data Structures (Beta).
+  
++ **Project Name**: FootBall Team Cards Web Applications.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
+  
+
+## **Purpose**
+
+One Common Aspect Of Building Web Applications: Processing Datasets, And Then Outputting Information To The Screen. 
+
+In This Sports Team Cards Project, You'll Learn How To Work With DOM Manipulation, Object Destructuring, Event Handling, And Data Filtering.  
+
+This Project Will Cover Concepts Like Default Parameters, Object.Freeze(), And Reinforce Your Knowledge Of The Switch Statement And Map() Method.  
+
+## **Acknowledgment**
+
+
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
+
+All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
+
+I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
+
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
+
+## **Special Thanks**
+
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
+
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
 
 
-One Page Building Football Team Cards
-
-
-
-This Website Was Built Using Free Code Camp Instructions: Learn Modern JavaScript Methods by Building Football Team Cards
-
-
-
-Section: JavaScript Algorithms and Data Structures (Beta)
-
-
-
-Course Name: Learn Modern JavaScript Methods by Building Football Team Cards
-
-
-
-Deatils:
-
-
-One common aspect of building web applications: processing datasets, and then outputting information to the screen. 
-
-
-
-In this sports team cards project, you'll learn how to work with DOM manipulation, object destructuring, event handling, and data filtering.
-
-
-
-This project will cover concepts like, default parameters, Object.freeze(), and reinforce your knowledge of the switch statement and map() method.
-
-
-
-for the project , you will build ab application that checks whether a given word is a palindrome
-
-
-
-Link:
-
-https://www.freecodecamp.org/
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
-
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
-
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
-
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
 
 
