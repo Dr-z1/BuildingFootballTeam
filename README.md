@@ -3,7 +3,7 @@
 ## **Project Overview**
 
 
-#### This Project Is A **Spam Filter**, Developed As Part of The FreeCodeCamp Curriculum. 
+#### This Project Is A **FootBall Team Cards**, Developed As Part of The FreeCodeCamp Curriculum. 
 
 #### The Primary Goal Is Learn Modern JavaScript Methods By Building FootBall Team Cards.
 
